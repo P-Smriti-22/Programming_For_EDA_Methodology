@@ -1,5 +1,5 @@
 Example to port .json to python
-data.json take from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSO
+data.json take from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 The terminal print output of the process.py is shown below:
 
   Super hero squad based out of Metro City was formed in 2016
