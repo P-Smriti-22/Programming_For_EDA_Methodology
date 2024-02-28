@@ -1,0 +1,13 @@
+Example to port .json to python
+data.json take from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSO
+The terminal print output of the process.py is shown below:
+
+  Super hero squad based out of Metro City was formed in 2016
+	They are currently have a secret base at Super tower
+	Current member details:
+	
+			 Name		 Age		 Secret Identity	 Powers
+	
+			 Molecule Man 	 29 		 Dan Jukes 		 Radiation resistance, Turning tiny, Radiation blast, 
+			 Madame Upput 	 39 		 Jane Wilson 		 Million tonne punch, Damage resistance, Superhuman reflexes, 
+			 Eternal Flame 	 10 		 Unknown 		 Immortality, Inferno, Interdimensional travel, 
